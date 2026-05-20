@@ -13,7 +13,7 @@ npm run dev   # http://localhost:5173
 
 1. Push 到 `main` branch（GitHub Actions 會自動觸發 build + deploy）
 2. 第一次使用需到 GitHub repo → **Settings → Pages → Source** 選 `GitHub Actions`
-3. 部署完成後網址：`https://tankfinal.github.io/tank-agent-team/`
+3. 部署完成後網址：`https://tankfinal.github.io/agent-team/`
 
 ## 技術棧
 

@@ -1,4 +1,4 @@
-# tank-agent-team — Claude Code 規範
+# agent-team — Claude Code 規範
 
 這個 repo 是 agent team 模板。你（Claude Code）在此啟動時請知道：
 

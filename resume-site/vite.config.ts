@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/tank-agent-team/',
+  base: '/agent-team/',
   plugins: [react(), tailwindcss()],
 })

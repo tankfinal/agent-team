@@ -1,4 +1,4 @@
-# tank-agent-team
+# agent-team
 
 Tank 個人的 Claude Code Agent Teams 模板。提供兩個預先設計好的 team，可一鍵啟動 / 重建 / 連接，並用 tmux split pane 即時觀察所有 teammate 的工作與互相對話。
 
@@ -104,7 +104,7 @@ pm 會開始問你 1–3 個關鍵問題，釐清完才派工。
 ## 目錄結構
 
 ```
-tank-agent-team/
+agent-team/
 ├── README.md                    ← 本文件
 ├── CLAUDE.md                    ← repo 規範（Claude Code 啟動時自動載入）
 ├── .claude/
